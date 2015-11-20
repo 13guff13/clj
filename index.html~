@@ -1,0 +1,7 @@
+<html>
+  <body>
+    <script type="text/javascript" src="/home/guff/tmp/hello_world/src/hello_world/clojure-1.7.0/out/goog/base.js"></script>
+    <script type="text/javascript" src="/home/guff/tmp/hello_world/src/hello_world/clojure-1.7.0/out/main.js"></script>
+    <script type="text/javascript" src="/home/guff/tmp/hello_world/src/hello_world/clojure-1.7.0/out/hello_world/core.js"></script>
+  </body>
+  </html>
